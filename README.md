@@ -1,23 +1,25 @@
 # ibrahim-startup-website
 My repository for devOps class
 
+
+
+## git setup
+- https://imgur.com/undefined
+
 ## cloning github
 - https://imgur.com/fExRG4v
 
-## main branch
-html: https://github.com/Heebrah/ibrahim-startup-website/blob/main/index.html
 
-- https://imgur.com/FhYAECw
-
-- https://imgur.com/RpjMyVk
-
-## Tom's branch
+## GitHub Repository Submission:
+for Tom
 - html link: https://github.com/Heebrah/ibrahim-startup-website/blob/update-navigation/index.html
--  https://imgur.com/yC9wIQP
+-  https://imgur.com/kx05t8a
 
-## Jerry's branch
--html link: https://github.com/Heebrah/ibrahim-startup-website/blob/add-contact-info/index.html
-- https://imgur.com/A7KDQ7R
+for Jerry
+
+- html link: https://github.com/Heebrah/ibrahim-startup-website/blob/add-contact-info/index.html
+- https://imgur.com/nZg7AA0
+
 
 ## compare & pull request
 -  https://imgur.com/GxfjO23
