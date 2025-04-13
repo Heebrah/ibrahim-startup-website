@@ -5,8 +5,11 @@ My repository for devOps class
 - https://imgur.com/fExRG4v
 
 ## main branch
-https://imgur.com/FhYAECw
-https://imgur.com/RpjMyVk
+html: https://github.com/Heebrah/ibrahim-startup-website/blob/main/index.html
+
+img: https://imgur.com/FhYAECw
+
+img: https://imgur.com/RpjMyVk
 
 ## Tom's branch
 - html link: https://github.com/Heebrah/ibrahim-startup-website/blob/update-navigation/index.html
