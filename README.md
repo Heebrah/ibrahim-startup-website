@@ -4,7 +4,7 @@ My repository for devOps class
 
 
 ## git setup
-- https://imgur.com/undefined
+- https://imgur.com/I2adrcM
 
 ## cloning github
 - https://imgur.com/fExRG4v
@@ -27,7 +27,6 @@ https://imgur.com/SMRq9oQ
 https://imgur.com/Sa38lEG
 
 https://imgur.com/MY0BhCU
-
 
 
 ## compare & pull request
