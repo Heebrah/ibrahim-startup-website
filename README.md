@@ -4,29 +4,28 @@ My repository for devOps class
 
 
 ## git setup
-- https://imgur.com/I2adrcM
+- https://imgur.com/CMleF8X
 
 ## cloning github
 - https://imgur.com/fExRG4v
+- https://imgur.com/kx05t8a
+- https://imgur.com/z8AZ7do
 
 
 ## GitHub Repository Submission:
 for Tom
-- html link: https://github.com/Heebrah/ibrahim-startup-website/blob/update-navigation/index.html
--  https://imgur.com/kx05t8a
+
+-  https://github.com/Heebrah/ibrahim-startup-website/tree/update-navigation
 
 for Jerry
 
-- html link: https://github.com/Heebrah/ibrahim-startup-website/blob/add-contact-info/index.html
-- https://imgur.com/nZg7AA0
+
+- https://github.com/Heebrah/ibrahim-startup-website/tree/add-contact-info
 
 
 ## Project Documentation:
 https://imgur.com/SMRq9oQ
 
-https://imgur.com/Sa38lEG
-
-https://imgur.com/MY0BhCU
 
 
 ## compare & pull request
