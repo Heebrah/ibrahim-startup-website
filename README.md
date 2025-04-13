@@ -8,25 +8,23 @@ My repository for devOps class
 
 ## cloning github
 - https://imgur.com/fExRG4v
-
+- https://imgur.com/WAoYfyy
 
 ## GitHub Repository Submission:
 for Tom
 - html link: https://github.com/Heebrah/ibrahim-startup-website/blob/update-navigation/index.html
--  https://imgur.com/kx05t8a
+-  https://imgur.com/undefined
 
 for Jerry
 
 - html link: https://github.com/Heebrah/ibrahim-startup-website/blob/add-contact-info/index.html
-- https://imgur.com/nZg7AA0
+- https://imgur.com/z8AZ7do
 
 
 ## Project Documentation:
-https://imgur.com/SMRq9oQ
 
-https://imgur.com/Sa38lEG
 
-https://imgur.com/MY0BhCU
+https://imgur.com/xuYjdYz
 
 
 ## compare & pull request
