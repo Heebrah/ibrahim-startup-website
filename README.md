@@ -20,6 +20,10 @@ https://github.com/Heebrah/ibrahim-startup-website
 https://imgur.com/B7xXwU4
 
 
+## conflicting issues
+ https://imgur.com/undefined
+
+
 ## merge history
 https://imgur.com/Hj43Ain
 
