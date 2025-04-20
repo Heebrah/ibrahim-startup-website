@@ -6,8 +6,12 @@ https://imgur.com/LQOrcTM
 
 - Tom pull
 https://imgur.com/FfhBcwK  
-- commit
+
+- Request  pull
 https://imgur.com/co0gcfF
 
-- conflict
+- commiting 
 https://imgur.com/bYQGuLc
+
+- merge history
+https://imgur.com/Hj43Ain
