@@ -11,9 +11,6 @@ https://imgur.com/syHKzGz
 https://imgur.com/LQOrcTM
 
 
-## conflicting issues
- https://imgur.com/undefined
-
 ## Tom pull
 https://imgur.com/FfhBcwK  
 
