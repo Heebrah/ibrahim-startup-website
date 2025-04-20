@@ -7,6 +7,12 @@ This is screenshot from merging the branches
 # pull request on github
 https://imgur.com/syHKzGz
 
+## jerry pull: 
+https://imgur.com/LQOrcTM
+
+## Tom pull
+https://imgur.com/FfhBcwK  
+
 ## Github repository submit
 https://github.com/Heebrah/ibrahim-startup-website
 
