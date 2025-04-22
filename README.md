@@ -2,7 +2,6 @@
 My repository for devOps class
 This is screenshot from merging the branches
 
-# I have pull and merge how can i show the picture when it's not specified in the question at first
 
 # pull request on github
 https://imgur.com/syHKzGz
@@ -21,8 +20,9 @@ https://github.com/Heebrah/ibrahim-startup-website
 https://imgur.com/B7xXwU4
 
 
-## merge history
-https://imgur.com/Hj43Ain
+## conflict issue
+https://imgur.com/PHfvPX2
 
-https://imgur.com/B7xXwU4
+## merge successful
 
+https://imgur.com/401vM0Z
